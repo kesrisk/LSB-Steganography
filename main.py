@@ -183,6 +183,7 @@ def psnr(img1, img2):
 # hide('picture.png', 'shivam')
 # print (rgb2hex(255, 255, 255))
 def main():
+	
     root_directory_main = os.getcwd()
     print ("#####################################")
     print ("Hello! Welcome to LSB Steganography..")
